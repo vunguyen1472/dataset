@@ -1,2 +1,2 @@
-# berkeley-segmentation-dataset
-Dataset is taken from: https://www.kaggle.com/datasets/balraj98/berkeley-segmentation-dataset-500-bsds500 
+# Carvana Image Masking Challenge
+Dataset is taken from: https://www.kaggle.com/competitions/carvana-image-masking-challenge/overview
